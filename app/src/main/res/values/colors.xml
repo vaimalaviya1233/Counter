@@ -7,4 +7,27 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- manually added -->
+    <color name="mainbg">#3e4149</color>
+    <color name="childbg">#3e4149</color>
+    <color name="childerbg">#181842</color>
+    <color name="childtext">#fbd14b</color>
+    <color name="childertext">#2EC4B6</color>
+    <color name="bugger">#FF5370</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="darkgreback">#203461</color>
+    <color name="lightred">#EB4D40</color>
+    <color name="lightblu">#498AF4</color>
+    <color name="darkblckbg">#001614</color>
+    <color name="darkbg">#001E36</color>
+    <color name="lightwhite">#CED5D5D5</color>
+    <color name="yellow">#FBC013</color>
+    <color name="greenlight">#37A956</color>
+    <color name="redpink">#EF1346</color>
+    <color name="mainframe">#373737</color>
+    <color name="grouplist">#212121</color>
+    <color name="groupchild">#191919</color>
+
+
 </resources>

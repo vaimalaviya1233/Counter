@@ -2,4 +2,6 @@
     <string name="app_name">Counter</string>
     <string name="del_counter">Delete Counter</string>
     <string name="counter_">Counter </string>
+    <string name="add_counter">Add Counter</string>
+    <string name="close_counter">Close Counter</string>
 </resources>
