@@ -3,5 +3,7 @@
     <string name="del_counter">Delete Counter</string>
     <string name="counter_">Counter </string>
     <string name="add_counter">Add Counter</string>
+    <string name="remove_counter">Remove Counter</string>
     <string name="close_counter">Close Counter</string>
+    <string name="_1">1</string>
 </resources>
